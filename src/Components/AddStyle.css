@@ -1,0 +1,10 @@
+body{
+    background-color: red;
+}
+form {
+    display: inline-block;
+    text-align: center;
+}
+h3{
+    color: #97ff11;
+}
